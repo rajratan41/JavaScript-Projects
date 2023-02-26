@@ -1,3 +1,4 @@
-# JavaScripts Assignments for iNeuron FSJS Bootcamp
+# JavaScript Assignments of iNeuron FSJS Bootcamp
 
-- [Sandbox Assignments](./sandboxAssignment/readme.md)
+- [Sandbox Assignments](./Sandbox%20Assignment/readme.md)
+- [Document Assignments](./Document%20Assignment/readme.md)
